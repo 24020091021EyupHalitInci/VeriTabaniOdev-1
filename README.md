@@ -5,7 +5,7 @@ Bu depo, temel veritabanı yönetim becerilerini pekiştirmek amacıyla hazırla
 
 ## 🚀 Neler Yapıldı?
 Bu çalışma 3 temel aşamadan oluşmaktadır:
-1. **Veritabanı ve Tablo Oluşturma:** Veritabanı içerisinde `Kişilerim` adlı bir tablonun ilgili veri tipleriyle (ID, Ad, Soyad, Telefon, Şehir) yapılandırılması.
+1. **Veritabanı ve Tablo Oluşturma:** Veritabanı içerisinde `Kişilerim` adlı bir tablonun ilgili veri tipleriyle (ID, Ad, Soyad, Telefon) yapılandırılması.
 2. **Veri Ekleme (INSERT):** Oluşturulan tabloya örnek kişi kayıtlarının eklenmesi.
 3. **Veri Listeleme (SELECT):** Tablodaki tüm verilerin tek bir sorgu ile ekrana yazdırılması.
 
